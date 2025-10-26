@@ -1,7 +1,5 @@
--- Select the database
 USE alx_book_store;
 
--- Get full description of the Books table without using DESCRIBE or EXPLAIN
 SELECT 
     COLUMN_NAME,
     COLUMN_TYPE,
